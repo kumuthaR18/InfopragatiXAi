@@ -30,7 +30,7 @@ Imagine having a **guardian angel** in your pocket—one that listens, guides, a
 
 ## 📌 How InfoPragatix AI Helps Women at Every Stage of Life  
 
-### 👶 Baby Girls: Protection from the Start  
+### 👶 Young Girls: Protection from the Start  
 Riya was born in a small village in India. Her parents wanted a boy. **They thought of abandoning her.** But a local health worker used **InfoPragatix AI** to report the case, and the authorities stepped in.  
 
 ✔ **Identifies and reports child abuse or female infanticide**  
