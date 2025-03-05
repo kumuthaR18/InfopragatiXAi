@@ -4,7 +4,7 @@
 
 It was a cold December night in 2012. A 23-year-old woman, full of dreams, was on her way home after watching a movie. She had plans, ambitions, and a bright future ahead. But that night, something horrible happened. She was brutally attacked by a group of men, left to die on the streets of Delhi.  
 
-Her name was **Nirbhaya**, which means "fearless." But she was not the only one. Every day, girls and women in India **face harassment, abuse, and violence**, often with no one to help them.  
+Her name was **Nirbhaya**, which means "fearless". But she was not the only one. Every day, girls and women in India **face harassment, abuse, and violence**, often with no one to help them.  
 
 The country **protested, cried, and demanded justice**. Laws were changed, helplines were created, but **are women truly safe today?**  
 
@@ -13,6 +13,7 @@ Even now:
 - A **16-year-old hesitates to report bullying and online abuse.**  
 - A **young woman in an office endures harassment, afraid of losing her job.**  
 - A **wife suffers in silence, believing she has nowhere to go.**
+  
 **Why? Why should women have to live in fear?**
 
 **What if technology could change this? What if a single app could help every woman in every situation?**  
