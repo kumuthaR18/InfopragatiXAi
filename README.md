@@ -131,18 +131,26 @@ It’s more than an app. It’s a **revolution**. It’s a **promise**. It’s a
 
 💜 **Every woman deserves to live without fear.**  
 
-## UI of this project
-https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/1.png
+# InfopragatiX - Frontend Screenshots
 
-https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/2.png
+## 🏠 Home Page
+![Home Page](https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/1.png)
 
-https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/3.png
+## 🔐 Sign Up Page
+![Sign Up Page](https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/2.png)
 
-https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/4.png
+## ℹ️ About Us Page
+![About Us Page](https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/3.png)
 
-https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/5.png
+## 🚨 Emergency Page
+![Emergency Page](https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/4.png)
 
-https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/6.png
+## 🚑 Book Ambulance Page
+![Book Ambulance Page](https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/5.png)
+
+## 📖 Blogs Page
+![Blogs Page](https://github.com/kumuthaR18/InfopragatiXAi/blob/main/Frontend/6.png)
+
 
 If you believe in this mission, **support, contribute, and share!**  
 
